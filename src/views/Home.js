@@ -1,7 +1,7 @@
 import React from "react";
 import Survey from "../components/survey/Survey";
 import HomeIcon from "../assets/HomeIcon";
-import promoImg from "../assets/promo.jpg";
+import promoImg from "../assets/promo.jpeg";
 import { AppBar, CssBaseline, Grid, Toolbar, Typography } from "@mui/material";
 import { makeStyles } from "@mui/styles";
 
@@ -45,7 +45,7 @@ const useStyles = makeStyles((theme) => ({
     padding: theme.spacing(6),
   },
   image: {
-    backgroundImage: `url(${"../assets/img1.jpg"})`,
+    backgroundImage: `url(${"../assets/img1.jpeg"})`,
     backgroundRepeat: "no-repeat",
     backgroundColor:
       theme.palette.type === "light"
