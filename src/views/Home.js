@@ -91,7 +91,7 @@ export default function Home() {
         <Toolbar>
           <HomeIcon className={classes.icon} />
           <Typography variant="h6" color="inherit" noWrap>
-            Bancasa
+            Iberconsa
           </Typography>
         </Toolbar>
       </AppBar>

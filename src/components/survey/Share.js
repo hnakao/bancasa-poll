@@ -123,7 +123,7 @@ export default function Share({ surveyId, handleChange, values }) {
         <Grid item xs={4}>
           <SocialMediaButtons
             url="https://bancasa-poll.netlify.app/"
-            text="Participa en la encuesta de Bancasa"
+            text="Participa en la encuesta de Iberconsa"
           />
         </Grid>
       </Grid>
